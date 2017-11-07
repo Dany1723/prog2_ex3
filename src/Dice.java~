@@ -1,4 +1,4 @@
-package jp.ac.uryukyu.ie.ex3.pair00;
+package jp.ac.uryukyu.ie.ex3.pair21;
 
 public class Dice  {
     private int value;

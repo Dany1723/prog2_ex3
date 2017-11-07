@@ -9,7 +9,7 @@ public class Dice  {
 	play();
     }
     public int getValue(){return value;}
-    public void setVal(int value){this.value=value;}
+    public void setValue(int value){this.value=value;}
 
     public void play(){
 	value = (int)(Math.random()*6) + 1;
